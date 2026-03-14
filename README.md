@@ -20,8 +20,10 @@
 ## 🛠 Tech Stack
 - **Language:** Python 3.x
 - **Frameworks:** PyTorch, Ultralytics (YOLOv8), CUDA
+- **Acceleration Engines: NVIDIA CUDA & TensorRT
 - **Computer Vision:** OpenCV
-- **Hardware:** Jetson Orin Nano
+- **Hardware:** NVIDIA Jetson Orin Nano, CSI/USB Camera
+- **Operating System: Linux (Ubuntu 20.04/22.04 LTS), NVIDIA JetPack SDK
 - **Tools:** GitHub
 
 ---

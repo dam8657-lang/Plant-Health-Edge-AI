@@ -31,5 +31,17 @@
 - **Problem Solving:** - 특정 클래스의 인식 저하 문제를 해결하기 위해 외부 포털에서 고품질 데이터를 선별적으로 확보.
 - **Training Environment:** PyTorch 기반의 YOLOv8 Nano(Classify) 모델 활용.
 
+- ---
+
+## 🚀 Quick Start (Jetson Nano)
+
+이 프로젝트를 실행하기 위한 최소한의 설치 및 실행 방법입니다.
+
+1. **Environment Setup:**
+   ```bash
+   pip install ultralytics opencv-python torch torchvision
+
+# 카메라가 연결된 상태에서 실행
+    python "test 100.py"  
 ---
 

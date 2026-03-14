@@ -1,5 +1,8 @@
 # Plant-Health-Edge-AI
 # 🌿 Dual-ROI Real-time Plant Health Classifier for Edge AI
+<p align="center">
+  <img src="./KakaoTalk_20260314_212113506.png" width="80%">
+</p>
 
 **Jetson Orin Nano와 YOLOv8을 활용한 식물 상태 실시간 모니터링 시스템**
 

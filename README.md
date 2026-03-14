@@ -28,6 +28,14 @@
 
 ---
 
+## 📁 Project Structure
+
+- `YOLOv8TrainCLS.py`: 모델 학습 메인 스크립트
+- `training_config.py`: 하이퍼파라미터 및 학습 설정 파일
+- `test 100.py`: 젯슨 올인 나노 실시간 추론 및 Dual-ROI 구현 코드
+
+---
+
 ## 📊 Dataset & Training Strategy
 - **Classes:** `Healthy` (건강), `Wilted` (시듦)
 - **Problem Solving:** - 특정 클래스의 인식 저하 문제를 해결하기 위해 외부 포털에서 고품질 데이터를 선별적으로 확보.
